@@ -8,6 +8,7 @@ int main()
 	// Estrutura de repetição em for
 	for (num=1; num<=5; num++) {
 		printf("sigma %d \n", num);
+		printf("Teste Github");
 	}
 
 	// Estrutura de repetição em while
