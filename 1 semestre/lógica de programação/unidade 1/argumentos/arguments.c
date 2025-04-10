@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 void birthday(char x[], int y)
 {
@@ -13,6 +12,5 @@ int main() {
 
 	birthday(nome, idade);
 
-    system("pause");
     return 0;
 }
