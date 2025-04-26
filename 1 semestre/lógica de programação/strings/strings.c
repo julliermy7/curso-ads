@@ -3,7 +3,7 @@
 
 int main()
 {
-    char string1[50] = "Teste";
+    char string1[50] = "Arroz";
     char string2[] = "Games"; 
 
     strcat(string1 ,string2);
